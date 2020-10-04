@@ -1,0 +1,10 @@
+
+@charset "UTF-8";
+
+.nav-item {
+    flex: 1 1 auto;
+    margin-bottom: -1px;
+    flex-basis: 0;
+    flex-grow: 1;
+    text-align: left;
+  }

@@ -6,6 +6,7 @@
   "author": "Ryan <45671948+BigBirdGrim@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.5.2"
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
   }
 }
