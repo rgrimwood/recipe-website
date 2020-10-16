@@ -5,17 +5,19 @@
 @import "vendors/bootstrap";
 
 // Base
-
+@import "base/typography";
 
 // Layout
 @import "layout/header";
 @import "layout/navigation";
+@import "layout/footer";
 
 // Components
+@import "components/button";
+@import "components/recipe-card";
 
-
-//Pages
-
+// Pages
+@import "pages/login";
 
 // Themes
 @import "themes/theme";
